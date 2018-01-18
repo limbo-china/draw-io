@@ -52,5 +52,7 @@ rabbitmq	10.213.73.9	漫游数据队列
 jm共享机	10.213.72.5		
 共享机	10.213.69.60	neusoftnc	
 
+rabbitmq 10.213.73.9:15672 iie_usr iie_passwd
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
